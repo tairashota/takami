@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 27a3f1243c193b847a55846c59e8f5da
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 337
+  packageName: Selected U3D Japanese Font
+  packageVersion: 3.1.0
+  assetPath: Assets/SU3DJPFont/TextMeshProFont/Dynamic/mplus-1c-heavy SDF Dynamic.asset
+  uploadId: 566934

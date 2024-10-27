@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cc3fb2d962d7f1043929e026ee50c90e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 337
+  packageName: Selected U3D Japanese Font
+  packageVersion: 3.1.0
+  assetPath: Assets/SU3DJPFont/TextMeshProFont/Dynamic/mplus-1p-bold SDF Dynamic.asset
+  uploadId: 566934

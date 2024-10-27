@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cae1e05ede2335a47ae77d35ff4fb307
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 337
+  packageName: Selected U3D Japanese Font
+  packageVersion: 3.1.0
+  assetPath: Assets/SU3DJPFont/TextMeshProFont/Selected/mplus-2m-light SDF.asset
+  uploadId: 566934
