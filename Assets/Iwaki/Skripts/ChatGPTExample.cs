@@ -26,8 +26,8 @@ public class ChatGPTExample : MonoBehaviour
     private bool isPlaying = false;
     public float scrollSpeed = 1.0f;
    
-    private string apiKey = "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";
-    private string googleApiKey = "AIzaSyCcRfZrotPW2pmzeWQuy7FhVmYKzHftejs";
+    private string apiKey = "";
+    private string googleApiKey = "";
 
     public Slider audioSlider;
     public AudioSource audioSource;
